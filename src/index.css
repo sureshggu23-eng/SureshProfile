@@ -62,8 +62,19 @@
 .project-modal-description p:last-child{margin-bottom:0}
 .project-modal .text-link{margin-top:24px}
 :root[data-theme="light"] .project-modal{background:#fff;border-color:rgba(18,32,54,.2);box-shadow:0 24px 90px rgba(24,45,75,.2)}
+.internship-list{display:grid;gap:14px}
+.internship-card{padding:24px 26px;background:#10141b;border:1px solid var(--line)}
+.internship-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:20px}
+.internship-heading h4{margin:0 0 7px;font-size:17px}
+.internship-heading p{margin:0;color:var(--muted);font-size:13px;line-height:1.7}
+.internship-card ul{margin:20px 0 0;padding-left:20px;color:var(--muted);font-size:13px;line-height:1.8}
+.internship-card li{padding-left:4px;margin-top:8px}
+.internship-card li::marker{color:var(--blue)}
+:root[data-theme="light"] .internship-card{background:#fff;border-color:rgba(18,32,54,.13);box-shadow:0 12px 35px rgba(26,48,78,.045)}
+:root[data-theme="light"] .internship-heading h4{color:#172033}
 
 @media(max-width:640px){.project-image{height:205px}.project-modal{padding:32px 24px}.project-modal-backdrop{padding:16px}}
+@media(max-width:640px){.internship-card{padding:20px 18px}.internship-heading{flex-direction:column;gap:8px}.internship-heading h4{font-size:15px}}
 
 @media(min-width:641px) and (max-width:850px){
   .menu-toggle{display:block;order:3;flex:0 0 auto}
