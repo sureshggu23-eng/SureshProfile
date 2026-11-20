@@ -60,7 +60,7 @@ export function HeroSection({ theme, onToggleTheme }: HeroSectionProps) {
         </motion.div>
         <motion.div className="hero-portrait" initial={{ opacity: 0, scale: .94 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: .8, delay: .15 }}>
           <div className="portrait-glow" />
-          <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Portrait of Suresh G" />
+          <img src={`${import.meta.env.BASE_URL}profile.jpeg`} alt="Portrait of Suresh G" />
           <div className="portrait-tag"><span className="status-dot" /> Open to opportunities</div>
           <div className="portrait-index">MY PORTFOLIO</div>
         </motion.div>
