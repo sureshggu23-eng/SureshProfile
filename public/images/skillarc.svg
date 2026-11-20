@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-label="SkillArc online learning platform preview">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#172b42"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#75b7ff"/><stop offset="1" stop-color="#8c8aff"/></linearGradient>
+  </defs>
+  <rect width="1440" height="900" fill="url(#background)"/>
+  <rect x="64" y="52" width="1312" height="796" rx="26" fill="#f7f9fc"/>
+  <rect x="64" y="52" width="1312" height="92" rx="26" fill="#fff"/>
+  <path d="M64 144h1312" stroke="#e4e9f1" stroke-width="2"/>
+  <circle cx="116" cy="98" r="24" fill="url(#accent)"/>
+  <path d="m105 102 11-16 11 16-11 9z" fill="#fff"/>
+  <text x="154" y="106" fill="#17243a" font-family="Arial,sans-serif" font-size="29" font-weight="700">SkillArc</text>
+  <text x="823" y="103" fill="#69758a" font-family="Arial,sans-serif" font-size="17">My learning</text>
+  <text x="956" y="103" fill="#69758a" font-family="Arial,sans-serif" font-size="17">Courses</text>
+  <circle cx="1284" cy="98" r="23" fill="#e8edff"/>
+  <text x="1277" y="105" fill="#646bc5" font-family="Arial,sans-serif" font-size="18" font-weight="700">S</text>
+  <text x="112" y="207" fill="#748098" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">YOUR LEARNING SPACE</text>
+  <text x="112" y="267" fill="#18253b" font-family="Arial,sans-serif" font-size="44" font-weight="700">Keep growing, one lesson at a time.</text>
+  <text x="112" y="305" fill="#748098" font-family="Arial,sans-serif" font-size="18">Pick up where you left off or explore a new skill.</text>
+  <rect x="112" y="352" width="1216" height="215" rx="20" fill="#eaf1ff"/>
+  <circle cx="1134" cy="459" r="82" fill="#d5e0ff"/>
+  <path d="M1080 479 1134 423l54 56-54 25z" fill="url(#accent)"/>
+  <path d="M1134 423v81l54-25z" fill="#6572d8"/>
+  <path d="M1092 490v31q42 27 84 0v-31l-42 20z" fill="#354a8c"/>
+  <text x="158" y="412" fill="#5e70ca" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">FEATURED COURSE</text>
+  <text x="158" y="462" fill="#18253b" font-family="Arial,sans-serif" font-size="33" font-weight="700">Python Programming</text>
+  <text x="158" y="497" fill="#68758b" font-family="Arial,sans-serif" font-size="17">Build practical skills through guided lessons and quizzes.</text>
+  <rect x="158" y="520" width="151" height="42" rx="21" fill="#5e70ca"/>
+  <text x="190" y="547" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700">CONTINUE LEARNING</text>
+  <text x="112" y="632" fill="#18253b" font-family="Arial,sans-serif" font-size="24" font-weight="700">Your progress</text>
+  <rect x="112" y="660" width="385" height="128" rx="16" fill="#fff" stroke="#e4e9f1" stroke-width="2"/>
+  <text x="140" y="700" fill="#68758b" font-family="Arial,sans-serif" font-size="15">COURSES IN PROGRESS</text>
+  <text x="140" y="757" fill="#18253b" font-family="Arial,sans-serif" font-size="38" font-weight="700">03</text>
+  <rect x="527" y="660" width="385" height="128" rx="16" fill="#fff" stroke="#e4e9f1" stroke-width="2"/>
+  <text x="555" y="700" fill="#68758b" font-family="Arial,sans-serif" font-size="15">LESSONS COMPLETED</text>
+  <text x="555" y="757" fill="#18253b" font-family="Arial,sans-serif" font-size="38" font-weight="700">18</text>
+  <rect x="942" y="660" width="386" height="128" rx="16" fill="#fff" stroke="#e4e9f1" stroke-width="2"/>
+  <text x="970" y="700" fill="#68758b" font-family="Arial,sans-serif" font-size="15">CERTIFICATES EARNED</text>
+  <text x="970" y="757" fill="#18253b" font-family="Arial,sans-serif" font-size="38" font-weight="700">02</text>
+</svg>
